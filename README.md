@@ -10,7 +10,7 @@ PASOS BASICOS
 - git clone https://github.com/RealStrategy/GeneradorPayloads.git
 - cd GeneradorPayloads
 - chmod +x genpay.sh
-- bash genppay.sh
+- bash genpay.sh
 
 ERROR AL ELIMINAR
 
