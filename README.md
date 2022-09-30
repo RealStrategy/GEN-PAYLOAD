@@ -7,13 +7,13 @@ Programa para generar una cantidad de payloads usando paginas web o mejor conoci
 
 PASOS BASICOS 
 
-git clone https://github.com/RealStrategy/GeneradorPayloads.git
-cd GeneradorPayloads
-chmod +x genpay.sh
-bash genppay.sh
+- git clone https://github.com/RealStrategy/GeneradorPayloads.git
+- cd GeneradorPayloads
+- chmod +x genpay.sh
+- bash genppay.sh
 
 ERROR AL ELIMINAR
 
 En caso no logren borrar este directorio, pueden probar el siguiente comando que dejare. Seguramente les saldra un mensaje diciendo remove write-protected regular file... para poder eliminar la carpeta simplemente agregan YES y luego enter.
 
-rm -r GeneradorPayloads 
+- rm -r GeneradorPayloads 
