@@ -3,7 +3,7 @@
 # Date: 29/09/2022
 # Telegram: https://t.me/RealHackRWAM
 
-Programa para generar una cantidad de payloads usando una pagina web o conocido como: host, dominios, url. Funciona en la gran mayoria de aplicaciones que necesite un carga util (Payload) para conectarse a INTERNET. 
+Programa para generar una cantidad de payloads usando paginas web o mejor conocido como: host, dominios, url. Estos payloads funcionan en la gran mayoria de aplicaciones (VPN) que necesiten carga util (Payload) para poder conectarse a INTERNET (BUG). 
 
 PASOS BASICOS 
 
